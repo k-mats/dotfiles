@@ -1,0 +1,10 @@
+# Additional keymap on 'atomic-emacs' package
+
+'body':
+  'ctrl-j ctrl-n': 'pane:show-next-item'
+  'ctrl-j ctrl-p': 'pane:show-previous-item'
+  'ctrl-x ctrl-c': 'core:close'
+  'ctrl-u': 'atomic-emacs:scroll-down'
+  'ctrl-[ w': 'atomic-emacs:copy-region-as-kill'
+'atom-workspace atom-text-editor':
+  'ctrl-[ ;': 'editor:toggle-line-comments'

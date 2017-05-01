@@ -1,0 +1,14 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+  editor: {}
+  "exception-reporting":
+    userId: "2c8aa180-dd87-6fc6-def3-9fcb2ec55378"
+  welcome:
+    showOnStartup: false
+".c.source":
+  editor:
+    tabLength: 4
+".cpp.source":
+  editor:
+    tabLength: 4
